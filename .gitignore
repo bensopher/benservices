@@ -1,0 +1,10 @@
+.idea
+
+/customer/target/classes/
+/customer/src/main/resources/application.yml
+/eureka-server/target/classes/
+/eureka-server/src/main/resources/application.yml
+/docker-compose.yml
+/fraud/target/classes/com/bensopher/fraud/
+/fraud/target/classes/
+/fraud/src/main/resources/application.yml
